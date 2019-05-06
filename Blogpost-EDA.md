@@ -7,8 +7,8 @@ release dates, languages, production companies, countries, TMDB vote counts and 
 ([Source](https://www.kaggle.com/rounakbanik/the-movies-dataset))
 
 The files used in our analysis and their relations are showed below:
+![Dataset_structure](https://user-images.githubusercontent.com/46948881/57206113-5516a800-6f91-11e9-9dad-e213775ffef3.jpg)
 
-![Dataset_structure](https://user-images.githubusercontent.com/46948881/57199665-9be3ae00-6f4f-11e9-8e9d-5d9bddfc41ac.jpg)
 
 After performing data wrangling we finished by having one dataset of the following structure: 
 
@@ -42,3 +42,19 @@ This time the revenue jumps up in 1975. Once looking closer we get one movie fro
 ![universal_1975](https://user-images.githubusercontent.com/46948881/57204303-e6cbe880-6f84-11e9-9a82-550119ef3198.jpg)
 
 This time there is no mistake: 14-award winner "Jaws" brought in $470,653,000.
+
+### Revenues
+
+In the previous plot, we saw that amount of $470,653,000 was looking higher than the revenues from the last years. 
+This looks not logical. Let's check which 10 movies brought the higest revenue:
+![highest_revenues](https://user-images.githubusercontent.com/46948881/57205260-4f1dc880-6f8b-11e9-9abb-01102b1ab296.jpg)
+
+
+However, the highest income during last years gets over a billion. Here we realized that we shouldn't have removed the budget and revenue "outliers", as they are probably not. We adjusted our data wrangling file and saved a new version of "clean" dataset. 
+
+This is an updated plot for Universal Pictures but here we are comparing total revenues instead of mean as in 1975 they produce only "Jaws" and the mean for 1975 will be higher than all other years.
+![universal_budget_sum](https://user-images.githubusercontent.com/46948881/57206010-965a8800-6f90-11e9-8f0e-4b465c77b601.jpg)
+
+We are noticing positive dynamics for Universal as with time the gap between budget and revenue is getting bigger.
+
+
