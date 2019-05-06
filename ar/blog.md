@@ -28,7 +28,9 @@ Having less people working on set might not only be easier for the management bu
 This might also have an impact on the final feel and the aesthetics of the movie. In order to keep the production rolling fast there is a need for a crew.  Camera crew, lighting crew, production assistants will all add up to the number of people working on-set. While at first this might not look as a big issue but the more people there is on set the more coordination everyone needs and the more pressure the director faces to make quick decisions that would allow the production to move on. By using the new digital technology it is possible to cut down drastically or even resign the crew – and still keep the production value high. 
 
 
+Here is the plot showing total budget, sales and difference curves. It shows a positive growth of the gap between budget and income:
 
+![budget_revenue_difference](https://user-images.githubusercontent.com/46948881/57240036-96dc3880-6ffb-11e9-84fe-cc69ecd1db53.jpg)
 
 
 
