@@ -38,4 +38,7 @@ And we can conclude that unlike the number of movies, the budget spent on produc
 Let's look into budget and revenue curves for **Universal Pictures**:
 ![universal_budget](https://user-images.githubusercontent.com/46948881/57203058-57b9d300-6f7a-11e9-9a49-c1fbede5e143.jpg)
 
+This time the revenue jumps up in 1975. Once looking closer we get one movie from 1975:
+![universal_1975](https://user-images.githubusercontent.com/46948881/57204303-e6cbe880-6f84-11e9-9a82-550119ef3198.jpg)
 
+This time there is no mistake: 14-award winner "Jaws" brought in $470,653,000.
