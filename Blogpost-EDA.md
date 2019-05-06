@@ -59,4 +59,4 @@ This is an updated plot for Universal Pictures but here we are comparing total r
 
 We are noticing positive dynamics for Universal as with time the gap between budget and revenue is getting bigger.
 
-
+### Add revenue by release month
