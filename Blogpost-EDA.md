@@ -19,8 +19,7 @@ After performing data wrangling we finished by having one dataset of the followi
 Movies Dataset contains **4627 movies** in 20 genres produced between 1915 and 2017. 
 
 The yearly number of movies produced has a tendency to grow with time. 
-![num_of_movies](https://user-images.githubusercontent.com/46948881/57202801-900be200-6f77-11e9-8581-e7ee8686aa7d.jpg)
-
+![num_of_movies](https://user-images.githubusercontent.com/46948881/57203055-52f51f00-6f7a-11e9-83fc-5f990ecb7cea.jpg)
 
 There are **4981 production companies** in the dataset. Here is the 20 biggest companies (which produced the highest number of movies)
 ![prod_comp](https://user-images.githubusercontent.com/46948881/57202633-8f724c00-6f75-11e9-9e55-eb4f8eed3164.jpg)
@@ -32,8 +31,11 @@ There is a suspicious race of a budget somewhere between 1925 and 1935. Let's ta
 ![movies_25-35](https://user-images.githubusercontent.com/46948881/57202691-54bce380-6f76-11e9-94e9-8b2f74b1a60f.jpg)
 
 Now we see that the movie "Metropolis" has a budget of $92,620,000. After double checking on we IMDB website, we see that the real budget is $6,000,000. Here is the trend after correcting this value:
-![yearly budget-2](https://user-images.githubusercontent.com/46948881/57202740-e4fb2880-6f76-11e9-9df6-66b3cfdbe858.jpg)
+![yearly budget-2](https://user-images.githubusercontent.com/46948881/57203031-132e3780-6f7a-11e9-9ddc-4847b2262b0a.jpg)
 
 And we can conclude that unlike the number of movies, the budget spent on production started dropping after the year 2000.
 
-Let's look into budget and revenue curves for Universal Pictures:
+Let's look into budget and revenue curves for **Universal Pictures**:
+![universal_budget](https://user-images.githubusercontent.com/46948881/57203058-57b9d300-6f7a-11e9-9a49-c1fbede5e143.jpg)
+
+
