@@ -20,3 +20,5 @@ Check why Comedy is NOT corresponding our theory... Find another influencing fac
 ### Solution and next steps
 -  In here we see that through the years the genres kept the leading positions in popularity and brought higher revenues 
 despite low correlation. Importance of studying the problem in different perspectives ( various time periods, feature combinations, etc.).
+
+In order to maximize the revenues, a genre popularity prediction should be considered during the planning of budgeting and the number of movies in each genre. 
