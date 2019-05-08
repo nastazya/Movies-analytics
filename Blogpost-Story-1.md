@@ -3,6 +3,8 @@
 ### Introduction
 
 - we have 20 genres. Historgam of genres.
+![genres](https://user-images.githubusercontent.com/46948881/57346996-bf108800-711e-11e9-8d5c-d1b2f3fb15e7.jpg)
+
 - bar chart of revenues for each genre. (action, Adv and Comedy lead)
 ### Question:
 - Bar chart of popularity for each genre (different dynamic). Why? (higher popularty --> more money but the plot doesn't show)
