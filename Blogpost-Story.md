@@ -31,7 +31,7 @@ Here is the plot showing total budget and sales curves.
 The Budget and Revenue ratio shows that starting 2000 the budget percentage for each movie is going down. This proves that the new technologies are lowering the cost.
 ![ratio_85-20](https://user-images.githubusercontent.com/46948881/57340679-dc385d00-7104-11e9-92d9-b122eb26faa9.jpg)
 
-As the technologie continues to develop we expect the number of movies to grow and budget percentage to drop.
+As technology continues to develop we expect the number of movies and revenue percentage to grow.
 
 ### References
 
