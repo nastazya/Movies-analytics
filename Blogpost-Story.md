@@ -16,7 +16,7 @@ Technology drives entire segments of film now, enabling movies that were not pos
 
 Without technology, it would be nearly impossible for Hollywood to produce the volume of films that it does.  The turn of the millenium bought a new age in the film history with rapid and remarkable advances in technology.  Cameras from companies like Sony, Panasonic, JVC and Canon offer a variety of choices for shooting high-definition video. 
 
-We can see that number of movies is growing exponentially:
+Below is the chart that shows the exponential growth of the number of movies:
 ![num_of_movies_after1920](https://user-images.githubusercontent.com/46948881/57339720-c4f77080-7100-11e9-90fd-cbec1895bdc5.jpg)
 
 Digital technology was embraced because of the cost factor.  The ability to lose the expenses of purchasing a film stock and
@@ -31,6 +31,7 @@ Here is the plot showing total budget and sales curves.
 The Budget and Revenue ratio shows that starting 2000 the budget percentage for each movie is going down. This proves that the new technologies are lowering the cost.
 ![ratio_85-20](https://user-images.githubusercontent.com/46948881/57340679-dc385d00-7104-11e9-92d9-b122eb26faa9.jpg)
 
+As the technologie continues to develop we expect the number of movies to grow and budget percentage to drop.
 
 ### References
 
