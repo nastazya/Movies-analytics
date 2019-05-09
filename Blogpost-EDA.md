@@ -33,7 +33,7 @@ As technology continues to develop we expect the number of movies and revenue pe
 Having less people working on set might not only be easier for the management but could also save production money. 
 This might also have an impact on the final feel and the aesthetics of the movie. In order to keep the production rolling fast there is a need for a crew.  Camera crew, lighting crew, production assistants will all add up to the number of people working on-set. While at first this might not look as a big issue but the more people there is on set the more coordination everyone needs and the more pressure the director faces to make quick decisions that would allow the production to move on. By using the new digital technology it is possible to cut down drastically or even resign the crew – and still keep the production value high. 
 
-ADD NUMBER OF CREW YEARLY 
+**ADD NUMBER OF CREW YEARLY** 
 
 ### References
 
