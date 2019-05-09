@@ -23,6 +23,8 @@ If we look at the revenues and popularity of movies in each genre we see that th
 - here are the results: four "best" genres and list of actors for each one (Vizulization) 
 
 ### Solution and next steps
+- It this case adventure brings more revenue with a given budget. It means that we would look first at the adventure themes and scenarios and try to bring the actors from the best ones we have in a list (the list could be extended to 20 or 30 actors). If we don't have strong scenarios within this genre we would go to Action and so on.
+
 - Importance of studying the problem in different perspectives ( various time periods, feature combinations, etc.).
 
 In order to maximize the revenues, a genre popularity prediction should be considered during the budget and movies volume distribution. 
