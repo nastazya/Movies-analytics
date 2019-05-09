@@ -15,22 +15,30 @@ If we look at the revenues and popularity of movies in each genre we see that th
 
 ### Question:
 So how do we make a right choice of genre and the cast in order to have the highest revenue, considering that we can estimate our budget?
+
 ### Most profitable genres in chosen category. (Rising insites #1)
 Let's consider that our estimated budget will lay between 70 and 100 million USD. The four genres with highest revenues are:
 
-- Comedy with total revenue:  $9,037,092,470
-- Family with total revenue:  $8,602,395,910
-- Adventure with total revenue:  $7,542,968,113
-- Animation with total revenue:  $7,438,683,665
+- **Comedy with** total revenue:  $9,037,092,470
+- **Family with** total revenue:  $8,602,395,910
+- **Adventure** with total revenue:  $7,542,968,113
+- **Animation** with total revenue:  $7,438,683,665
 
-### Rising insites #2
+### Top actors in each genre. (Rising insites #2)
 Now let's check which actors play in the most profitable movies in each of the four chosen genres. We will take 10 for each genre:
+![actors_comedy](https://user-images.githubusercontent.com/46948881/57476587-e8d3c700-7264-11e9-8088-283b2537ce5c.jpg)
+![actors_family](https://user-images.githubusercontent.com/46948881/57476588-e8d3c700-7264-11e9-9cdc-8af21bad5f35.jpg)
+![actors_adventure](https://user-images.githubusercontent.com/46948881/57476589-e8d3c700-7264-11e9-8f2f-6e1fb8107006.jpg)
+![actors_animation](https://user-images.githubusercontent.com/46948881/57476586-e8d3c700-7264-11e9-988d-046cdb878a75.jpg)
 
+### So how do we make a desicion? (AHA)
+Let's suppose that, in accordance with the information received about the top genres, we have decided to approve the script, which initially corresponds to the **family** and **adventure** genres.
 
-### Aha moment
-- here are the results: four "best" genres and list of actors for each one (Vizulization) 
+In order to get the list of cast memers to choose from we will do these steps:
+1. Find actors which played in family movies and actors played in adventure (we are using data for chosed period of time and our budget gap). 
+2. select the actors present in both lists and leave 10 leading ones (by the total income of the films in which they played) 
 
-### Solution and next steps
+### Conclusion (Solution and next steps)
 - It this case adventure brings more revenue with a given budget. It means that we would look first at the adventure themes and scenarios and try to bring the actors from the best ones we have in a list (the list could be extended to 20 or 30 actors). If we don't have strong scenarios within this genre we would go to Action and so on.
 
 - Importance of studying the problem in different perspectives ( various time periods, feature combinations, etc.).
