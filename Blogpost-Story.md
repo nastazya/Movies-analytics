@@ -8,7 +8,6 @@ Now we will talk about one of the business planning aspects: how to make the rig
 
 Let's look into genres existing in the movie industry. There are 20 of them. Almost half of all films made anywhere in the world over the past forty years are Dramas (48%). Other popular genres include Comedy (34% of movies made), Thrillers (29%), Action (27%), Adventure (19%) and Romance (18%).
 ![genres%](https://user-images.githubusercontent.com/46948881/57416055-8202cf00-71cc-11e9-8b14-ed65bad93ab6.jpg)
-PIE CHART
 
 If we look at the revenues and popularity of movies in each genre we see that the results vary slightly: 
 ![popularity and revenue,%](https://user-images.githubusercontent.com/46948881/57421452-e6785b00-71d9-11e9-97ca-c7094e12b515.jpg)
