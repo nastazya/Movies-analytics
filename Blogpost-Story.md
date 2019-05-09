@@ -26,10 +26,20 @@ Let's consider that our estimated budget will lay between 70 and 100 million USD
 
 ### Top actors in each genre. (Rising insites #2)
 Now let's check which actors play in the most profitable movies in each of the four chosen genres. We will take 10 for each genre:
-![actors_comedy](https://user-images.githubusercontent.com/46948881/57476587-e8d3c700-7264-11e9-8088-283b2537ce5c.jpg)
-![actors_family](https://user-images.githubusercontent.com/46948881/57476588-e8d3c700-7264-11e9-9cdc-8af21bad5f35.jpg)
-![actors_adventure](https://user-images.githubusercontent.com/46948881/57476589-e8d3c700-7264-11e9-8f2f-6e1fb8107006.jpg)
-![actors_animation](https://user-images.githubusercontent.com/46948881/57476586-e8d3c700-7264-11e9-988d-046cdb878a75.jpg)
+
+| Comedy | Family | Aventure | Animaton |
+| -------------- | -------------- | ---------------- | -------------- | 
+| Adam Sandler   | Chris Renaud   | Wanda Sykes      | Chris Renaud   |
+| Sadie Sandler  | Jess Harnell   | Josh Hutcherson  | Jess Harnell   |
+| Chris Renaud   | Laraine Newman | Michael Caine    | Laraine Newman |
+| Jess Harnell   | Steve Coogan   | Aziz Ansari      | Danny Mann     |
+| Laraine Newman | Danny Mann     | Jason Fricchione | Jan Rabson     |
+| Kevin James    | Jan Rabson     | Jason Harris     | Jim Ward       |
+| Ava Acres      | Jim Ward       | Woody Harrelson  | Mona Marshall  |
+| Ken Jeong      | Mona Marshall  | John Leguizamo   | Steve Coogan   |
+| Wanda Sykes    | Ava Acres      | Liam Hemsworth   | Ava Acres      |
+| Andy Samberg   | Jenny Slate    | Alain Chabat     | Jenny Slate    |
+
 
 ### So how do we make a desicion? (AHA)
 Let's suppose that, in accordance with the information received about the top genres, we have decided to approve the script, which initially corresponds to the **family** and **adventure** genres.
