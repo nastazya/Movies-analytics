@@ -14,17 +14,19 @@ If we look at the revenues and popularity of movies in each genre we see that th
 ![popularity and revenue,%](https://user-images.githubusercontent.com/46948881/57421452-e6785b00-71d9-11e9-97ca-c7094e12b515.jpg)
 
 ### Question:
-So how do we make a right choice of genre and artists in order to have the highest revenue, considering that we can estimate our budget?
+So how do we make a right choice of genre and the cast in order to have the highest revenue, considering that we can estimate our budget?
 ### Most profitable genres in chosen category. (Rising insites #1)
 Let's consider that our estimated budget will lay between 70 and 100 million USD. The four genres with highest revenues are:
 
-- Comedy with total revenue:  9,037,092,470
-- Family with total revenue:  8,602,395,910
-- Adventure with total revenue:  7,542,968,113
-- Animation with total revenue:  7,438,683,665
+- Comedy with total revenue:  $9,037,092,470
+- Family with total revenue:  $8,602,395,910
+- Adventure with total revenue:  $7,542,968,113
+- Animation with total revenue:  $7,438,683,665
 
 ### Rising insites #2
-- Check the most popular artists in three genre for every genre 
+Now let's check which actors play in the most profitable movies in each of the four chosen genres. We will take 10 for each genre:
+
+
 ### Aha moment
 - here are the results: four "best" genres and list of actors for each one (Vizulization) 
 
