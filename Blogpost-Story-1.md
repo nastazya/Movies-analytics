@@ -22,7 +22,6 @@ If we look at the revenues and popularity of movies in each genre we see that th
 ### Aha moment
 - here are the results: four "best" genres and list of actors for each one (Vizulization) 
 
-![Dotted_plot](https://user-images.githubusercontent.com/46948881/57207866-3a96fb80-6f9e-11e9-8cc1-421999a8560a.jpg) 
 ### Solution and next steps
 - Importance of studying the problem in different perspectives ( various time periods, feature combinations, etc.).
 
