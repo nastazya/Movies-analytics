@@ -22,9 +22,6 @@ Below is the chart that shows the exponential growth of the number of movies:
 Digital technology was embraced because of the cost factor.  The ability to lose the expenses of purchasing a film stock and
 its development meant that a huge peace of budget now could be invested somewhere else or the project could be completed for less money.  The whole filmmaking process in its essence could be simplified and various costs that were attached to the film workflow could be lost.  For example, the camera crew in digital production could be much smaller as everything is being recorded to the tape or digital storage device and less people and effort is required to handle that type of medium.
 
-Having less people working on set might not only be easier for the management but could also save production money. 
-This might also have an impact on the final feel and the aesthetics of the movie. In order to keep the production rolling fast there is a need for a crew.  Camera crew, lighting crew, production assistants will all add up to the number of people working on-set. While at first this might not look as a big issue but the more people there is on set the more coordination everyone needs and the more pressure the director faces to make quick decisions that would allow the production to move on. By using the new digital technology it is possible to cut down drastically or even resign the crew – and still keep the production value high. 
-
 Here is the plot showing total budget and sales curves. 
 ![budget_revenue_1920](https://user-images.githubusercontent.com/46948881/57339713-bf018f80-7100-11e9-8802-853ce8083ef5.jpg)
 
@@ -32,6 +29,11 @@ The Budget and Revenue ratio shows that starting 2000 the budget percentage for 
 ![ratio_85-20](https://user-images.githubusercontent.com/46948881/57340679-dc385d00-7104-11e9-92d9-b122eb26faa9.jpg)
 
 As technology continues to develop we expect the number of movies and revenue percentage to grow.
+
+Having less people working on set might not only be easier for the management but could also save production money. 
+This might also have an impact on the final feel and the aesthetics of the movie. In order to keep the production rolling fast there is a need for a crew.  Camera crew, lighting crew, production assistants will all add up to the number of people working on-set. While at first this might not look as a big issue but the more people there is on set the more coordination everyone needs and the more pressure the director faces to make quick decisions that would allow the production to move on. By using the new digital technology it is possible to cut down drastically or even resign the crew – and still keep the production value high. 
+
+ADD NUMBER OF CREW YEARLY 
 
 ### References
 
