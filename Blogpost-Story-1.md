@@ -1,22 +1,25 @@
-# Movies Dataset Genres. Popularity VS Revenue.
+# How to plan a sucsessful movie production.
 
 ### Introduction
 
-- we have 20 genres. Historgam of genres.
-![genres](https://user-images.githubusercontent.com/46948881/57346996-bf108800-711e-11e9-8d5c-d1b2f3fb15e7.jpg)
+Movie planning is a complex process that involves many different steps: planning the theme and approximate budget, developing the script, selecting the actors and the film crew, and others.
 
-- bar chart of revenues for each genre. (action, Adv and Comedy lead)
+Now we will talk about business planning, that is, how to make the right choice of the theme and actors so that this choice, along with all the others, will bring us the expected result. 
+
+Let's look into genres existing in a movie industry. There are 20 of them.Almost half of all films made anywhere in the world over the past fourty years are Dramas (48%). Other popular genres include Comedy (34% of movies made), Thrillers (29%), Action (27%), Adventure (19%) and Romance (18%).
+![genres%](https://user-images.githubusercontent.com/46948881/57416055-8202cf00-71cc-11e9-8b14-ed65bad93ab6.jpg)
+
+If we look at the revenues and popularity of movies in each genre we see that the results vary slightly: 
+(stacked bar of percentages of revenu and popularity).
+
 ### Question:
-- Bar chart of popularity for each genre (different dynamic). Why? (higher popularty --> more money but the plot doesn't show)
+- So how do we make a right choice of genre and artists in order to have the highest revenue, considering that we have approximate budget?
 ### Rising insites #1
-- Scatter that shows low correlation between popularity and revenue
+- choice of budget gap. check which genres withing this budget bring most revenues for last 10 years. 
 ### Rising insites #2
-- Build stuck bar charts with percentages of popularity for 2 periods: all the time and last 2 decades (will see the results NOT SURE).
+- Check the most popular artists in three genre for every genre 
 ### Aha moment
-- Lets check the popularity percentages for each one of the last 4 decades. results and plot putting them together in dots.
-Here we see different results (adv, action and animation) that correspond better revenue bar chart reluts. 
-- Try to connect time (exponential growth of revenues of the last two decades and Action=Animation-Adventure-Comedy popularity). 
-Check why Comedy is NOT corresponding our theory... Find another influencing factor 
+- here are the results: four "best" genres and list of actors for each one (Vizulization) 
 
 ![Dotted_plot](https://user-images.githubusercontent.com/46948881/57207866-3a96fb80-6f9e-11e9-8cc1-421999a8560a.jpg) 
 ### Solution and next steps
