@@ -11,7 +11,7 @@ Let's look into genres existing in the movie industry. There are 20 of them. Alm
 PIE CHART
 
 If we look at the revenues and popularity of movies in each genre we see that the results vary slightly: 
-(stacked bar of percentages of revenu and popularity).
+![popularity and revenue,%](https://user-images.githubusercontent.com/46948881/57421452-e6785b00-71d9-11e9-97ca-c7094e12b515.jpg)
 
 ### Question:
 - So how do we make a right choice of genre and artists in order to have the highest revenue, considering that we have approximate budget?
