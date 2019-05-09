@@ -1,4 +1,4 @@
-# How to plan a sucsessful movie production.
+# How to plan a successful movie production.
 
 ### Introduction
 
