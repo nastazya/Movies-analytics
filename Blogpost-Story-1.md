@@ -4,10 +4,11 @@
 
 Movie planning is a complex process that involves many different steps: planning the theme and approximate budget, developing the script, selecting the actors and the film crew, and others.
 
-Now we will talk about business planning, that is, how to make the right choice of the theme and actors so that this choice, along with all the others, will bring us the expected result. 
+Now we will talk about one of the business planning aspects: how to make the right choice of the theme and the cast so that this choice, along with an approximate budget, will bring us the expected result. 
 
-Let's look into genres existing in a movie industry. There are 20 of them.Almost half of all films made anywhere in the world over the past fourty years are Dramas (48%). Other popular genres include Comedy (34% of movies made), Thrillers (29%), Action (27%), Adventure (19%) and Romance (18%).
+Let's look into genres existing in the movie industry. There are 20 of them. Almost half of all films made anywhere in the world over the past forty years are Dramas (48%). Other popular genres include Comedy (34% of movies made), Thrillers (29%), Action (27%), Adventure (19%) and Romance (18%).
 ![genres%](https://user-images.githubusercontent.com/46948881/57416055-8202cf00-71cc-11e9-8b14-ed65bad93ab6.jpg)
+PIE CHART
 
 If we look at the revenues and popularity of movies in each genre we see that the results vary slightly: 
 (stacked bar of percentages of revenu and popularity).
@@ -23,7 +24,6 @@ If we look at the revenues and popularity of movies in each genre we see that th
 
 ![Dotted_plot](https://user-images.githubusercontent.com/46948881/57207866-3a96fb80-6f9e-11e9-8cc1-421999a8560a.jpg) 
 ### Solution and next steps
--  In here we see that through the years the genres kept the leading positions in popularity and brought higher revenues 
-despite low correlation. Importance of studying the problem in different perspectives ( various time periods, feature combinations, etc.).
+- Importance of studying the problem in different perspectives ( various time periods, feature combinations, etc.).
 
-In order to maximize the revenues, a genre popularity prediction should be considered during the planning of budgeting and the number of movies in each genre. 
+In order to maximize the revenues, a genre popularity prediction should be considered during the budget and movies volume distribution. 
