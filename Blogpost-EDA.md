@@ -31,12 +31,13 @@ The Budget and Revenue ratio shows that starting 2000 the budget percentage for 
 As technology continues to develop we expect the number of movies and revenue percentage to grow.
 
 Having less people working on set might not only be easier for the management but could also save production money. 
-This might also have an impact on the final feel and the aesthetics of the movie. In order to keep the production rolling fast there is a need for a crew.  Camera crew, lighting crew, production assistants will all add up to the number of people working on-set. While at first this might not look as a big issue but the more people there is on set the more coordination everyone needs and the more pressure the director faces to make quick decisions that would allow the production to move on. By using the new digital technology it is possible to cut down drastically or even resign the crew – and still keep the production value high. 
+This might also have an impact on the final feel and the aesthetics of the movie. In order to keep the production rolling fast there is a need for a crew.  Camera crew, lighting crew, production assistants will all add up to the number of people working on-set. While at first this might not look as a big issue but the more people there is on set the more coordination everyone needs and the more pressure the director faces to make quick decisions that would allow the production to move on. By using the new digital technology it is possible to cut down drastically or even resign the crew – and still keep the production value high. Lets check number of crew members trend:
 
-Technology in the movie has brought in so much money such that celebrities are investing in it.
+![Crew_members_trend](https://user-images.githubusercontent.com/46948881/57504860-30d60680-72c4-11e9-8ab6-10189c93e181.jpg)
 
-**ADD NUMBER OF CREW YEARLY** 
+This plot shows that the average number of crew members hasn't dropped through the years. That means that there are still a lot of people involved and that technology doesn't reduce working places.
 
+Technology in the movie industry has brought in so much money such that this sector became very popular among investors and investment companies.
 ### References
 
 | link to references|
