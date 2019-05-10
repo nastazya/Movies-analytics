@@ -51,7 +51,7 @@ Let's suppose that, in accordance with the information received about the top ge
 
 In order to get the list of cast memers to choose from we will do these steps:
 1. Find actors which played in family movies and actors played in adventure (we are using data for a chosed period of time and our budget estimate). 
-2. Select the actors present in both lists and leave 10 leading ones (by the total income of the films in which they played).
+2. Select the actors present in both lists and sort by the total income of the films in which they played.
 
 ![list intersection](https://user-images.githubusercontent.com/46948881/57499684-94edd000-72ae-11e9-807a-55351f268771.jpg)
 
