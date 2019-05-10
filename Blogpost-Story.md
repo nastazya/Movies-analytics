@@ -55,9 +55,14 @@ In order to get the list of cast memers to choose from we will do these steps:
 
 ![list intersection](https://user-images.githubusercontent.com/46948881/57499684-94edd000-72ae-11e9-807a-55351f268771.jpg)
 
-### Conclusion (Solution and next steps)
-Finally, we have a list of actors, obtained by combining two genres. Below is a diagram of the number of films with the participation of each actor from our list, in each of two genres. (There are 42 actors in the list, the first 10 were taken for visualization).
+Finally, we have a list of actors, obtained by combining two genres. Below is a diagram of the number of films with the participation of each actor from our list, in each of two genres. (They are sorted by profit (down - the highest average movie profit)).
 
-- Importance of studying the problem in different perspectives ( various time periods, feature combinations, etc.).
+![final-1](https://user-images.githubusercontent.com/46948881/57502211-b18f0580-72b8-11e9-8718-5874face0af8.jpg)
+
+We can now see not only the names of the actors but their activity in selected genres. This gives us a better picture and will significantly help us in making a final decision.
+
+### Conclusion (Solution and next steps)
+
+No one would deny the importance of taking into account the dynamics of the development of the film market. But there is another significant factor: the use of different approaches to solving one issue. In this case, we have created a method that can be used in combination with others, developed in accordance with the requirements of the client.
 
 In order to maximize the revenues, a genre popularity prediction should be considered during the budget and movies volume distribution. 
