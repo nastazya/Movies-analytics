@@ -46,7 +46,7 @@ Now let's check which actors play in the most profitable movies in each of the f
 | Tom Hanks      | Mona Marshall   | Nikki Reed       | John Cygan     | Ralph Fiennes
 
 
-### So how do we make a desicion?
+### So how do we make a decision?
 Let's suppose that, in accordance with the information received about the top genres, we have decided to approve the script, which initially corresponds to the **family** and **adventure** genres.
 
 In order to get the list of cast memers to choose from we will do these steps:
@@ -56,7 +56,7 @@ In order to get the list of cast memers to choose from we will do these steps:
 ![list intersection](https://user-images.githubusercontent.com/46948881/57499684-94edd000-72ae-11e9-807a-55351f268771.jpg)
 
 ### Conclusion (Solution and next steps)
-- It this case adventure brings more revenue with a given budget. It means that we would look first at the adventure themes and scenarios and try to bring the actors from the best ones we have in a list (the list could be extended to 20 or 30 actors). If we don't have strong scenarios within this genre we would go to Action and so on.
+Finally, we have a list of actors, obtained by combining two genres. Below is a diagram of the number of films with the participation of each actor from our list, in each of two genres. (There are 42 actors in the list, the first 10 were taken for visualization).
 
 - Importance of studying the problem in different perspectives ( various time periods, feature combinations, etc.).
 
