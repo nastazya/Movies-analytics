@@ -61,8 +61,13 @@ Finally, we have a list of actors, obtained by combining two genres. Below is a 
 
 We can now see not only the names of the actors but their activity in selected genres. This gives us a better picture and will significantly help us in making a final decision.
 
+Let's try to check whether we did a good choice of genres for our movie. For this, we did a prediction of revenue for our chosen movie and plotted it, along with the profit of all the movies of the same budget frame. 
+
+![prediction_profit](https://user-images.githubusercontent.com/46948881/57550788-5a7b4600-7335-11e9-8ee1-4e2286e2929b.jpg)
+
+The prediction gave us very good resuts! In perspective, we could also include the names of the actors we chose to our model to make it more precise. 
+
 ### Conclusion
 
 No one would deny the importance of taking into account the dynamics of the development of the film market. But there is another significant factor: the use of different approaches to solving one issue. In this case, we have created a method that can be used in combination with others, developed in accordance with the requirements of the client.
 
-In order to maximize the revenues, a genre popularity prediction should be considered during the budget and movies volume distribution. 
