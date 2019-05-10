@@ -17,28 +17,29 @@ If we look at the revenues and popularity of movies in each genre we see that th
 So how do we make a right choice of genre and the cast in order to have the highest revenue, considering that we can estimate our budget?
 
 ### Most profitable genres in chosen category. (Rising insites #1)
-Let's consider that our estimated budget will lay between 70 and 100 million USD. The four genres with highest revenues are:
+Let's consider that our estimated budget will lay between 80 and 110 million USD. The five genres with highest average profit for the last 15 years are:
 
-- **Comedy with** total revenue:  $9,037,092,470
-- **Family with** total revenue:  $8,602,395,910
-- **Adventure** with total revenue:  $7,542,968,113
-- **Animation** with total revenue:  $7,438,683,665
+- **Animation** with average profit:  $330,420,776
+- **Family** with average profit:  $284,451,194
+- **Comedy** with average profit:  $268,520,692
+- **Romance** with average profit:  $237,615,991
+- **Adventure** with average profit: $204,307,422
 
 ### Top actors in each genre. (Rising insites #2)
 Now let's check which actors play in the most profitable movies in each of the four chosen genres. We will take 10 for each genre:
 
-| Comedy | Family | Aventure | Animaton |
-| -------------- | -------------- | ---------------- | -------------- | 
-| Adam Sandler   | Chris Renaud   | Wanda Sykes      | Chris Renaud   |
-| Sadie Sandler  | Jess Harnell   | Josh Hutcherson  | Jess Harnell   |
-| Chris Renaud   | Laraine Newman | Michael Caine    | Laraine Newman |
-| Jess Harnell   | Steve Coogan   | Aziz Ansari      | Danny Mann     |
-| Laraine Newman | Danny Mann     | Jason Fricchione | Jan Rabson     |
-| Kevin James    | Jan Rabson     | Jason Harris     | Jim Ward       |
-| Ava Acres      | Jim Ward       | Woody Harrelson  | Mona Marshall  |
-| Ken Jeong      | Mona Marshall  | John Leguizamo   | Steve Coogan   |
-| Wanda Sykes    | Ava Acres      | Liam Hemsworth   | Ava Acres      |
-| Andy Samberg   | Jenny Slate    | Alain Chabat     | Jenny Slate    |
+| Comedy | Family | Romance | Animaton | Adventure |
+| -------------- | --------------- | ---------------- | -------------- | -------------- |
+| Jess Harnell   | Jess Harnell    | Tailor Lautner   | Jess Harnell   | Samuel L. Jackson |
+| Danny Mann     | Daniel Radkliff | Robert Pattinson | Danny Mann     | Hugo Weaving
+| Bill Header    | Tom Felton      | Kristen Stewart  | Laraine Newman | Frank Welker
+| Owen Wilson    | Danny Mann      | Billy Burke      | Alan Tudyk     | Alan Tudyk
+| Laraine Newman | Laraine Newman  | Peter Facinelli  | Jan Rabson     | Andy Serkis
+| Cher           | Alan Tudyk      | Elizabeth Reaser | Mona Marshall  | Simon Pegg
+| Alan Tudyk     | Helena Carter   | Ashley Green     | Frank Welker   | Daniel Radkliff
+| Steve Carell   | Frank Welker    | Jackson Rathbone | Bob Bergen     | Tom Felton
+| Kristen Wiig   | Jan Rabson      | Kellan Lutz      | Bill Header    | Cate Blanchett 
+| Tom Hanks      | Mona Marshall   | Nikki Reed       | John Cygan     | Ralph Fiennes
 
 
 ### So how do we make a desicion? (AHA)
