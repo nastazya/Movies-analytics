@@ -30,7 +30,7 @@ Let's consider that our estimated budget will lay between 80 and 110 million USD
 As you can see the results we got are very different from the general results we got earlier. 
 
 ### Top actors in each genre
-Now let's check which actors play in the most profitable movies in each of the five top genres. We will take 10 for each genre:
+Now let's check which actors play in the most profitable movies in each of the five top genres. Here are first 10 for each genre:
 
 | Comedy | Family | Romance | Animaton | Adventure |
 | -------------- | --------------- | ---------------- | -------------- | -------------- |
