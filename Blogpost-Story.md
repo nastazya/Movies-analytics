@@ -61,7 +61,7 @@ Finally, we have a list of actors, obtained by combining two genres. Below is a 
 
 We can now see not only the names of the actors but their activity in selected genres. This gives us a better picture and will significantly help us in making a final decision.
 
-### Conclusion (Solution and next steps)
+### Conclusion
 
 No one would deny the importance of taking into account the dynamics of the development of the film market. But there is another significant factor: the use of different approaches to solving one issue. In this case, we have created a method that can be used in combination with others, developed in accordance with the requirements of the client.
 
