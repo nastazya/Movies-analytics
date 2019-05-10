@@ -10,10 +10,10 @@ Let's look into genres existing in the movie industry. There are 20 of them. Alm
 ![genres%](https://user-images.githubusercontent.com/46948881/57416055-8202cf00-71cc-11e9-8b14-ed65bad93ab6.jpg)
 _Note: This chart adds up to more than 100% as each film could have up to three genres._
 
-If we look at the revenues and popularity of movies in each genre we see that the results vary slightly. 
+If we look at the revenues and popularity of movies in each genre we see that the results vary slightly:  
 ![popularity and revenue,%](https://user-images.githubusercontent.com/46948881/57421452-e6785b00-71d9-11e9-97ca-c7094e12b515.jpg)
 
-Moreover, in order to choose the optimal genre, these indicators are clearly not enough, because they are too general
+Moreover, in order to choose the optimal genre, these indicators are clearly not enough, because they are too general.
 
 **So how do we make a right choice of genre and the cast in order to have the highest profit, considering that we can estimate our budget?**
 
@@ -48,7 +48,8 @@ Let's suppose that, in accordance with the information received about the top ge
 
 In order to get the list of cast memers to choose from we will do these steps:
 1. Find actors which played in family movies and actors played in adventure (we are using data for a chosed period of time and our budget estimate). 
-2. Select the actors present in both lists and leave 10 leading ones (by the total income of the films in which they played) 
+2. Select the actors present in both lists and leave 10 leading ones (by the total income of the films in which they played).
+![list intersection](https://user-images.githubusercontent.com/46948881/57499684-94edd000-72ae-11e9-807a-55351f268771.jpg)
 
 ### Conclusion (Solution and next steps)
 - It this case adventure brings more revenue with a given budget. It means that we would look first at the adventure themes and scenarios and try to bring the actors from the best ones we have in a list (the list could be extended to 20 or 30 actors). If we don't have strong scenarios within this genre we would go to Action and so on.
