@@ -5,6 +5,6 @@
 - Data blogpost (``Blogpost-EDA.md``)
 - Data story blogpost (``Blogpost-Story.md``)
 - Prediction of revenue (``Prediction.ipynb``)
-- Clastering actors (``clustering``)
+- Clastering actors (``clustering.ipynb``)
 
 - Data (datasets). Datasets that were too big can be loaded here: https://drive.google.com/drive/folders/1MwFoUvUp2St0Sjq0I9dlNIl_BXkw3fZU
